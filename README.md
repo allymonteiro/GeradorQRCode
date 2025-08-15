@@ -11,6 +11,6 @@ Uma ferramenta de linha de comando feita em Python para gerar QR Codes de forma 
 
 ## 🚀 Como Usar (Versão Executável para Windows)
 
-1. Vá para a **[Página de Releases](LINK_DA_SUA_RELEASE_AQUI)**.
+1. Vá para a **[Página de Releases](https://github.com/allymonteiro/GeradorQRCode/releases)**.
 2. Baixe o arquivo `gerador_qrcode.exe` da versão mais recente.
 3. Dê dois cliques para executar, digite os dados que deseja e o nome do arquivo de saída!
